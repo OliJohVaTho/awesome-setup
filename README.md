@@ -33,7 +33,7 @@ Wallpaper - [ArtStation](https://www.artstation.com/artwork/4Xa124)
 (For yay in Arch Linux)
 
 ```
-yay -S --needed awesome-git polybar picom-pijulius-git alacritty betterlockscreen catppuccin-gtk-theme-mocha conky logo-ls lxappearance neovim neofetch papirus-icon-theme feh rofi xidlehook sddm qt5-graphicaleffects qt5-quickcontrols2 qt5-svg
+yay -S --needed awesome-git polybar picom-pijulius-git kitty betterlockscreen catppuccin-gtk-theme-mocha logo-ls lxappearance neovim neofetch papirus-icon-theme feh rofi xidlehook sddm qt5-graphicaleffects qt5-quickcontrols2 qt5-svg brightnessctl bluez blueman
 ```
 
 ### Optional programs
