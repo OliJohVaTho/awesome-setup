@@ -1,0 +1,7 @@
+~/.config/nvim
+~/.config/kitty
+~/.config/awesome
+~/.config/picom.conf
+~/.oh-my-zsh
+~/.zshrc
+~/.Xresources
